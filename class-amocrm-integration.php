@@ -43,7 +43,7 @@ namespace Project_Name\Core\Includes;
  * @author    deco.agency <https://deco.agency/>
  * @copyright 2015 deco.agency <https://deco.agency/>
  * @license   http://www.opensource.org/licenses/BSD-3-Clause  The BSD 3-Clause License
- * @link      https://github.com/dmamontov/amo-restapi/
+ * @link      https://github.com/sprightly/woocommerce-amocrm
  */
 class AmoCRM_Integration {
 
